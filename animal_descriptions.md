@@ -5,6 +5,8 @@ A cat is a small mammal that likes to be scratched and petted,
 likes to sleep in the sun, and likes to play. Below is an image
 of a cat.
 
+![image of a cat](images/cat_image.jpg)
+
 To learn more [follow this link.](https://en.wikipedia.org/wiki/Cat)
 
 
