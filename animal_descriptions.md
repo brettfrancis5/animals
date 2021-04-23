@@ -11,7 +11,11 @@ To learn more [follow this link.](https://en.wikipedia.org/wiki/Cat)
 
 
 ### Dog
+A dog is a mammal that loves to play and can be a man's best friend. Below is an image of a dog.
 
+![image of a dog](dog.jpg)
+
+To learn more [follow this link.](https://en.wikipedia.org/wiki/Dog)
 
 ### Elephant
 
